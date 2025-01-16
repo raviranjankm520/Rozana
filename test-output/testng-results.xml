@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-16T13:31:11 IST" name="Default suite" finished-at="2025-01-16T13:31:23 IST" duration-ms="11772">
+    <groups>
+    </groups>
+    <test started-at="2025-01-16T13:31:11 IST" name="Default test" finished-at="2025-01-16T13:31:23 IST" duration-ms="11772">
+      <class name="Adminrozana.Poslogin">
+        <test-method signature="createsubadminusereditpos()[pri:0, instance:Adminrozana.Poslogin@6cd24612]" started-at="2025-01-16T13:31:11 IST" name="createsubadminusereditpos" finished-at="2025-01-16T13:31:23 IST" duration-ms="11712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createsubadminusereditpos -->
+      </class> <!-- Adminrozana.Poslogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
